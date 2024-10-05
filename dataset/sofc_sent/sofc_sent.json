@@ -1,0 +1,2510 @@
+{
+    "columns": [
+        "sents",
+        "sent_labels"
+    ],
+    "index": [
+        3324,
+        8469,
+        7021,
+        1096,
+        5531,
+        5377,
+        1934,
+        4508,
+        4187,
+        1806,
+        1059,
+        4040,
+        3519,
+        7232,
+        6298,
+        1160,
+        2971,
+        3310,
+        8984,
+        552,
+        7454,
+        1550,
+        1714,
+        6612,
+        2292,
+        71,
+        1159,
+        1823,
+        2763,
+        6852,
+        7012,
+        7828,
+        1985,
+        5481,
+        2308,
+        5428,
+        6508,
+        2880,
+        2264,
+        7919,
+        3691,
+        3026,
+        145,
+        8532,
+        1810,
+        1744,
+        972,
+        3660,
+        9236,
+        8625,
+        7841,
+        8142,
+        1789,
+        4276,
+        1569,
+        2441,
+        1497,
+        77,
+        4824,
+        7432,
+        7894,
+        2592,
+        8372,
+        428,
+        7016,
+        8366,
+        5557,
+        715,
+        4471,
+        6859,
+        2468,
+        922,
+        6012,
+        5740,
+        9280,
+        8878,
+        6897,
+        4793,
+        4831,
+        6742,
+        4871,
+        3921,
+        3221,
+        6921,
+        502,
+        9172,
+        9117,
+        3190,
+        7597,
+        970,
+        8254,
+        446,
+        6226,
+        8752,
+        9056,
+        8351,
+        1552,
+        9067,
+        450,
+        3703,
+        9357,
+        6645,
+        6666,
+        6209,
+        8937,
+        2195,
+        381,
+        9064,
+        2538,
+        8226,
+        4142,
+        5352,
+        5673,
+        5171,
+        3564,
+        1639,
+        7508,
+        7423,
+        7214,
+        5679,
+        9327,
+        8458,
+        6916,
+        2032,
+        3284,
+        2630,
+        5693,
+        6170,
+        607,
+        2987,
+        7745,
+        2970,
+        2030,
+        329,
+        3343,
+        3238,
+        7253,
+        1103,
+        5146,
+        6784,
+        533,
+        3334,
+        8461,
+        4805,
+        190,
+        9425,
+        616,
+        3130,
+        868,
+        252,
+        3850,
+        3648,
+        6857,
+        258,
+        6685,
+        8460,
+        4985,
+        5194,
+        917,
+        3800,
+        3396,
+        8354,
+        9076,
+        6737,
+        2406,
+        7534,
+        6315,
+        572,
+        9201,
+        3866,
+        6565,
+        9416,
+        5603,
+        7299,
+        8811,
+        5856,
+        4503,
+        3760,
+        863,
+        285,
+        5369,
+        2069,
+        4197,
+        6759,
+        825,
+        4718,
+        758,
+        2276,
+        1405,
+        9124,
+        1773,
+        7004,
+        4644,
+        831,
+        1486,
+        2948,
+        2812,
+        10,
+        3752,
+        6875,
+        2949,
+        6684,
+        3599,
+        47,
+        5093,
+        1066,
+        1038,
+        2692,
+        3327,
+        1331,
+        17,
+        9200,
+        6928,
+        8103,
+        7548,
+        7603,
+        7511,
+        4136,
+        8082,
+        6450,
+        2053,
+        9186,
+        7225,
+        448,
+        257,
+        4309,
+        2622,
+        2921,
+        2295,
+        7921,
+        1346,
+        5518,
+        6447,
+        8718,
+        2690,
+        4360,
+        3267,
+        211,
+        8800,
+        1046,
+        1547,
+        3870,
+        6204,
+        3060,
+        5778,
+        2650,
+        9082,
+        8264,
+        7442,
+        3478,
+        4878,
+        5362,
+        1313,
+        6944,
+        3861,
+        529,
+        2679,
+        1208,
+        7982,
+        5468,
+        8665,
+        8672,
+        6229,
+        5613,
+        8961,
+        1460,
+        7146,
+        7546,
+        2066,
+        770,
+        7672,
+        519,
+        5540,
+        6829,
+        6182,
+        254,
+        6006,
+        7196,
+        5436,
+        2418,
+        2045,
+        5180,
+        2839,
+        91,
+        3826,
+        3355,
+        7412,
+        4455,
+        2917,
+        43,
+        1361,
+        646,
+        3633,
+        7333,
+        3039,
+        3506,
+        9429,
+        5437,
+        7702,
+        3173,
+        8581,
+        3609,
+        6400,
+        5728,
+        7907,
+        3951,
+        2133,
+        7325,
+        940,
+        4802,
+        7166,
+        3023,
+        2391,
+        5253,
+        778,
+        6345,
+        5407,
+        4213,
+        5615,
+        6687,
+        8580,
+        3915,
+        1052,
+        4906,
+        664,
+        1234,
+        9089,
+        7339,
+        2801,
+        5683,
+        7834,
+        7236,
+        5273,
+        6632,
+        3364,
+        4666,
+        487,
+        2190,
+        527,
+        354,
+        2701,
+        5833,
+        8705,
+        3051,
+        7204,
+        6556,
+        2796,
+        8277,
+        8076,
+        6812,
+        8192,
+        3333,
+        6659,
+        2729,
+        501,
+        5853,
+        4472,
+        1058,
+        6668,
+        4256,
+        6549,
+        1248,
+        7263,
+        9249,
+        6692,
+        2508,
+        8080,
+        5243,
+        5780,
+        9227,
+        9370,
+        1417,
+        8352,
+        4632,
+        2718,
+        3945,
+        2265,
+        2079,
+        8237,
+        4529,
+        7749,
+        7129,
+        6463,
+        4458,
+        721,
+        3086,
+        7306,
+        7294,
+        6023,
+        709,
+        3490,
+        4751,
+        7926,
+        6815,
+        101,
+        6861,
+        4081,
+        4415,
+        6983,
+        9171,
+        855,
+        4464,
+        613,
+        1767,
+        2076,
+        479,
+        8534,
+        649,
+        9136,
+        7068,
+        6507,
+        7003,
+        6358,
+        6094,
+        2453,
+        5197,
+        8236,
+        2574,
+        7697,
+        6726,
+        683,
+        805,
+        7349,
+        776,
+        3076,
+        1798,
+        5357,
+        8583,
+        8828,
+        5633,
+        1034,
+        3384,
+        5463,
+        3000,
+        5249,
+        8809,
+        6046,
+        7407,
+        744,
+        3497,
+        1139,
+        5917,
+        4581,
+        1808,
+        975,
+        5777,
+        2838,
+        8801,
+        3073,
+        5782,
+        8349,
+        1136,
+        1182,
+        1107,
+        414,
+        239,
+        1028,
+        8075,
+        9369,
+        1991,
+        8196,
+        2278,
+        2511,
+        1085,
+        1949,
+        9380,
+        2851,
+        1580,
+        1557,
+        796,
+        3499,
+        2097,
+        608,
+        8579,
+        6391,
+        8622,
+        8806,
+        5668,
+        2676,
+        801,
+        7956,
+        1335,
+        7767,
+        4235,
+        7742,
+        6353,
+        2682,
+        5393,
+        6768,
+        5521,
+        7151,
+        2825,
+        722,
+        2873,
+        2205,
+        6253,
+        2923,
+        2913,
+        8335,
+        4720
+    ],
+    "data": [
+        [
+            "Figure 4 a,b) SEM image near steam electrode/electrolyte interface before and after steam electrolysis.",
+            0
+        ],
+        [
+            "Pore size and surface roughness also depend on fiber diameter.",
+            0
+        ],
+        [
+            "Experimental SrCo0.90Nb0.10O3\u2212\u03b4 and SrCo0.85Nb0.15O3\u2212\u03b4 perovskites were prepared as polycrystalline powders by a citrate method.",
+            0
+        ],
+        [
+            "These results are summarized in Table 1.",
+            0
+        ],
+        [
+            "Figure 5 shows a Rietveld analysis of the product, consisting of un unaltered mixture of the starting Sr0.9Ba0.1Co0.95Ru0.05O3\u2212\u03b4 and LSGM oxides.",
+            0
+        ],
+        [
+            "The corresponding equivalent circuit model R1(R2Q2)(R3Q3) is used to fit the measured data, where R1 is considered as ohmic resistance including the ionic transport resistance and the electron migration resistance.",
+            0
+        ],
+        [
+            "In general, a scan rate of 2 Hz and a resolution of 512 \u00d7 512 pixels over a scan area of 1 \u00d7 1 \u03bcm2 were chosen.",
+            0
+        ],
+        [
+            "With well-controlled thin-film MEA of typical geometry, Pt/yttria-stabilized zirconia (YSZ)/Pt cells can achieve power density \u22651 W cm\u22122 at 500 \u00b0C34.",
+            1
+        ],
+        [
+            "The usage of organic polymer spheres (e.g., polystyrene (abbr.",
+            0
+        ],
+        [
+            "Funct.",
+            0
+        ],
+        [
+            "Figure 7 shows the I\u2013V\u2013P curves of BaCe0.9Yb0.1O3\u2212\u03b1 (1550 \u00b0C) and BaCe0.9Yb0.1O3\u2212\u03b1-NaCl~KCl at 700 \u00b0C.",
+            0
+        ],
+        [
+            "X-ray diffraction and X-ray photoelectron spectroscopy analysis The perovskite oxides were analyzed by X-ray diffraction before and after reduction.",
+            0
+        ],
+        [
+            "Publisher's note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+            0
+        ],
+        [
+            "Sci.",
+            0
+        ],
+        [
+            "They observed that the expansion is bigger in case of high content of fine YSZ [185].",
+            0
+        ],
+        [
+            "These results provide a promising strategy for developing advanced low-temperature SOFCs.",
+            0
+        ],
+        [
+            "A 2, 3594\u20133604 (2014).",
+            0
+        ],
+        [
+            "It is thus reasonable to attribute the electrolysis performance difference to the Ohmic resistance change.",
+            0
+        ],
+        [
+            "It has been found that Ni/CGO outperform traditional Ni/8YSZ electrodes and the introduction of a ScSZ interlayer substantially reduces the degradation rate of ESC in electrolysis mode.",
+            1
+        ],
+        [
+            "The total resistances were given by the following equation.",
+            0
+        ],
+        [
+            "The radio frequency (RF)-sputtered GDC layer with excellent oxygen ion conductivity is used as the primary electrolyte layer, while the YSZ layer deposited by ALD technique prevents the reduction of ceria at low oxygen partial pressure and oxygen permeation across the GDC thin layer.",
+            0
+        ],
+        [
+            "The FESEM cross-sectional images of both the \u03bc-H-SOFCs having the BZY electrolytes with and without GDC interlayer are shown in Fig. 3.",
+            0
+        ],
+        [
+            "Science 349, 1321\u20131326 (2015).",
+            0
+        ],
+        [
+            "This can increase the stress in the thin electrolyte. (4) Low partial pressure of oxygen and high water vapor pressure induce inhomogeneous oxidation similar to the one described under (3).",
+            0
+        ],
+        [
+            "In contrast, the voltages of the cells with Ni\u2010infiltrated SDC anode rapidly decreased with time on stream.",
+            0
+        ],
+        [
+            "NTO infiltration into Ni0.9Fe0.1-supports was investigated with the purpose of enhancing CH4 steam reforming activity, carbon deposition resistance and cell performance.",
+            0
+        ],
+        [
+            "The mechanism of enhanced conductivity and cell performance were analyzed.",
+            0
+        ],
+        [
+            "Mater. 21, 3290\u20133296 (2009).",
+            0
+        ],
+        [
+            "Furthermore, R1, the high frequency (HF) component, is not changing for both cells, confirming that this contribution is produced by the common Nd nickelate-YSZ oxygen electrode.",
+            0
+        ],
+        [
+            "Using 18O tracer diffusion, the results suggested that mechanical strain has a large influence on the oxygen diffusivity; however, the enrichment in surface 18O concentration was more significant.",
+            0
+        ],
+        [
+            "Unhappily, this cubic polymorph is not stable below 900 \u00b0C where a 3C-cubic to 2H-hexagonal phase transition takes place when the material undergoes a slow cooling process.",
+            0
+        ],
+        [
+            "The XPS results for Pr0.5Ba0.5MnO3 and PrBaMn2O5 are presented in Fig.",
+            0
+        ],
+        [
+            "The latter two capacitances, however, are in parallel in the model of a MIEC electrode42 and thus cannot be separated.",
+            0
+        ],
+        [
+            "A high-resolution pattern was collected in the D2B diffractometer at the Laue-Langevin Institute (Grenoble, France) with a neutron wavelength \u03bb = 1.594 \u00c5 within the angular range of 2\u03b8 from 10 to 160\u00b0.",
+            0
+        ],
+        [
+            "In particular, recently, it was demonstrated that nickel nanoparticles showed outstanding performance for fuel electro\u2010oxidation.27, 28, 29 Clearly, the creation of abundant nickel nanoparticles from the limited conversion reaction of BZCYN further improved the electrode performance for H2 electro\u2010oxidation for power generation.",
+            0
+        ],
+        [
+            "Additional file Additional file 1: Figure S1.",
+            0
+        ],
+        [
+            "Gross et al. developed a ceramic anode with high performance (850 mW/cm2 at 800 \u00b0C), composed of a thin active functional layer (AFL) on a non-catalytic conductive layer [243].",
+            1
+        ],
+        [
+            "Solid oxide fuel cell Ni-YSZ anodes: Effect of composition on microstructure and performance.",
+            0
+        ],
+        [
+            "Figure S9 in the Supporting Information shows that the limited reduction reaction, during which the Ni nanoparticles and amorphous BaO phase were formed, led to a simultaneous increase in the pore volume and Brunauer\u2013Emmett\u2013Teller (BET) surface area.",
+            0
+        ],
+        [
+            "In the present study, the surface chemistry of the three different mixed conducting perovskite-type electrode materials La0.6Sr0.4CoO3-\u03b4 (LSC), La0.6Sr0.4FeO3-\u03b4 (LSF), and SrTi0.7Fe0.3O3-\u03b4 (STF) is compared with and without well-defined electrochemical polarization.",
+            0
+        ],
+        [
+            "Lastly, continuous uniform coatings 60\u2013170 nm thick, as deposited directly on the anodes without prior surfactant treatment, or 100\u2013140 nm thick as deposited on thiol-treated anodes, significantly improveed the sulfur tolerance in the tested cells.",
+            0
+        ],
+        [
+            "Equally important, the material must be chemically stable at the operating conditions.",
+            0
+        ],
+        [
+            "Y. & LuoL.",
+            0
+        ],
+        [
+            "It was found that the exchange current of cathode made from the NFs (145.06 mA\u00b7cm\u22122) is much higher than that of powders (81.82 mA\u00b7cm\u22122), this increment has been attributed to the increase of triple phase boundary by the fiber structure [80].",
+            0
+        ],
+        [
+            "M. & WangS.",
+            0
+        ],
+        [
+            "M. & PrinzF.",
+            0
+        ],
+        [
+            "Single cell IV-characterization of such cells with an LSCF cathode activated in situ displays power densities of about 1 W/cm2 at 800 \u00b0C and 1.5 A/cm2.",
+            1
+        ],
+        [
+            "In previous studies of oxide film deposition on surfactant-treated surfaces, sulfonate surfaces strongly favored the formation of continuous films of ZrO2, TiO2, and SnO2 [26].",
+            0
+        ],
+        [
+            "Fuel Cell Performance when SrFe0.8Cu0.1Nb0.1O3\u2212\u03b4 Was Used as the Anode Solid oxide fuel cells with a SrFe0.8Cu0.1Nb0.1O3\u2212\u03b4 anode, YSZ electrolyte and La0.8Sr0.2FeO3\u2212\u03b4 cathode were fabricated.",
+            1
+        ],
+        [
+            "Recent research demonstrates the potential of ultra- sensitive gas detection at low operating temperature.",
+            0
+        ],
+        [
+            "S4) of the transforming cells were measured at 700, 750 and 800 \u00b0C.",
+            0
+        ],
+        [
+            "(b) Total Fe 2p3/2 signal intensity (normalized to the initial area) showing a drastic decrease when Fe0 is formed.",
+            0
+        ],
+        [
+            "J., ChanS.",
+            0
+        ],
+        [
+            "There are a number of nanoporous electrode materials for SOFCs reported, including La1.7Ca0.3Ni0.75Cu0.25O4\u2013\u03b4,16 La0.6Sr0.4Co0.2Fe0.8O3\u2013\u03b4,101 and Sm0.5Sr0.5Co3\u2013\u03b4.102 Infiltration of active components into a porous electrode scaffold is a facile method to improve the electrochemical performance of cathodes for low-temperature SOFCs.",
+            1
+        ],
+        [
+            "The EIS curves were fitted using the equivalent circuit model of two parallel R and CPE (constant phase element) and one resistor connected in series, as shown in the inset of Fig. 6.",
+            0
+        ],
+        [
+            "This has been realized by incorporating the p-type BCFZY with a n-type semiconductor ZnO to form a heterostructure composite.",
+            0
+        ],
+        [
+            "Electrochem.",
+            0
+        ],
+        [
+            "The addition of NTO into the Ni0.9Fe0.1-support reduces the polarization resistance of Pref, P1A and P2A.",
+            0
+        ],
+        [
+            "Many techniques for tubular cells fabrication have been reported in recent years, such as extrusion34567, iso-pressing8 slip casting9 and dip-coating1011.",
+            0
+        ],
+        [
+            "The highly dense and thin YSZ layer acted as a blockage against electron and oxygen permeation between the anode and GDC electrolyte.",
+            0
+        ],
+        [
+            "Electronic supplementary material Supporting information Publisher\u2019s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+            0
+        ],
+        [
+            "Then, at 200 nm depth, a transition to a very flat profile in YSZ follows which reflects the high ionic conductivity there.",
+            0
+        ],
+        [
+            "Figure 9 shows how PVA/ Li1.2Ni0.17Co0.17Mn0.5O2 pristine NFs change to nanoplates (NPLs) with an open porous structure after calcination and finally transform to flower-like microstructure at elevated temperatures. 3.4.",
+            0
+        ],
+        [
+            "The concentration of the gases was kept constant for the duration of the thermal cycling experiment.",
+            0
+        ],
+        [
+            "The inclusion of a highly charged cation at the octahedral positions induces electrostatic repulsion effects that destabilize the octahedral face-sharing configuration present in the 2H hexagonal phase.",
+            0
+        ],
+        [
+            "It is obvious that the morphology of the final NFs depends on the calcination temperature.",
+            0
+        ],
+        [
+            "This is represented in the circuit as a constant phase element (CPE), which represents a time-dependent capacitive element (pseudo-capacitance).",
+            0
+        ],
+        [
+            "And the solid electrolyte parallel plates were supported in the grooves of a ceramic monolithic holder.",
+            0
+        ],
+        [
+            "It is also evidently suggested that performance can be further improved by the optimization of microstructure of both electrodes.",
+            0
+        ],
+        [
+            "For example, Figure 10, taken from [97], shows a series of LEIS spectra of LSCF ceramic samples; one has been measured after polishing, and the others were measured after annealing for 8 h at different temperatures.",
+            0
+        ],
+        [
+            "Owing to these benefits, our designed 2BCFZY-ZnO composite can exhibit excellent ionic conductivity and high fuel cell performance.",
+            0
+        ],
+        [
+            "By applying a suitable and more redox-stable barrier layer, the expected lifetime of the MSC will increase significantly, while electrical properties remain largely unaffected. 3.",
+            0
+        ],
+        [
+            "The microstructure will depend on the oxidation condition of the composite; even the partial pressure of oxygen, which is much lower in the case of in situ SEM observation, can change the microstructure evolution [17].",
+            0
+        ],
+        [
+            "This contradictory result may come from the lower hydrogen pressure in the TEM and the different surface defects between TEM and bulk samples [67].",
+            0
+        ],
+        [
+            "Porous YSZ was prepared by adding YSZ powder with methyl ethyl ketone and ethanol, binders (polyvinyl butyral and polyethylene Glycol) and graphite (UCP-2 grade, Alfa Aesar) sequentially.",
+            0
+        ],
+        [
+            "The ionic transference number (tion=\u03c3ion \u00d7 \u03c3total\u22121) of SCNT, SCN20 and SCT20 was calculated and shown in Supplementary Fig. 10.",
+            0
+        ],
+        [
+            "At the same time, an understanding of the relationship between bulk and surface chemistry is being developed through computational simulations and experimental high resolution and/or operando surface chemistry studies, that may assist design of electrodes with more robust surface chemistries that are impurity tolerant or do not show rapid surface segregation.",
+            0
+        ],
+        [
+            "It should be noted that neither RO nor Rp indicates the efficiency of the PCC, which can, however, be estimated on the basis of the electrolytic domain boundaries (absolute level and contribution of ionic conductivity). 3.6.",
+            0
+        ],
+        [
+            "After reduction during the cell test, the porosity of the anode-support was about 38%; and the functional anode, electrolyte and cathode were well adhered to each other with a uniform thickness of approximately 25, 15 and 15 \u03bcm (Supplementary Fig.",
+            0
+        ],
+        [
+            "Five approaches taken to tackle this challenge are given below with characteristic examples.",
+            0
+        ],
+        [
+            "Fuel cell test The cell performance was evaluated by using an in-house developed testing setup (Supplementary Fig.",
+            0
+        ],
+        [
+            "The mechanistic similarity between 2 and Ba0.5Sr0.5(Co0.8Fe0.2)O3\u2212\u03b4 demonstrated by the impedance responses suggest that this SP/DP assembly can give cathode performance comparable to best-in-class single-phase materials, despite being compositionally dominated by an ionic insulator.",
+            0
+        ],
+        [
+            "The finger\u2010like macrovoid electrode provided vertical aligned channels for gas transport and thus enhanced cell performance.",
+            0
+        ],
+        [
+            "Although the 320 nm-thick BEC cell has slightly worse reaction kinetics, compared to the 40 nm-thick BEC cell, its peak power density is approximately 11 times higher due to far more active mass transport on the BEC side.",
+            0
+        ],
+        [
+            "Experimental 2.1.",
+            0
+        ],
+        [
+            "However, the conductivity of SFMO under the SOFC anode environment is not very high thus further improvements are required13.",
+            0
+        ],
+        [
+            "To vary the contact between the cathode and the Pt mesh of the current collector, the cathode of the sintered cell is coated with contact paste (CCL = Cathode (air electrode) Contacting Layer) by screen printing (Figure 10a).",
+            0
+        ],
+        [
+            "Technical barriers associated with the conventional oxygen\u2010ion conducting SOECs (O\u2010SOECs), that is, hydrogen separation and electrode instability that is primarily due to the Ni oxidation at high steam concentration and delamination associated with oxygen evolution, can be remarkably mitigated.",
+            0
+        ],
+        [
+            "The electric conductivity, including ionic and electronic, will be measured by the two-probe and four-probe ionic DC method [26].",
+            0
+        ],
+        [
+            "Conclusions A metal-supported SOFC based on a porous steel substrate, a graded three-layer Ni/8YSZ anode, and a thin film 8YSZ membrane was operated in two different stack designs.",
+            1
+        ],
+        [
+            "Electrospun ceramic NFs have shown many unique characteristics and have enormous application potential in widely diverse areas.",
+            0
+        ],
+        [
+            "Rietveld analysis of the XRD-CT data was conducted using this instrument parameter file.",
+            0
+        ],
+        [
+            "Metal Supported Cell (MSC) This cell configuration should be the most stable under RedOx conditions as shown in Section 2.4.6 [106].",
+            0
+        ],
+        [
+            "The electrospinning method provides conditions for them to synthesize the practical wearable electronic textiles that have an ultralow detection limit of 1 Pa and high durability more than 1000 cycles.",
+            0
+        ],
+        [
+            "Both cells A and B showed different degradation rates at \u2212300 mA/cm2 at 850 \u00b0C.",
+            1
+        ],
+        [
+            "Singh et al. [79] synthesized ZrO2 NFs by electrospinning method and they found that calcination at different temperatures resulted in tetragonal to monoclinic phases without disrupting the fiber morphology.",
+            0
+        ],
+        [
+            "Cross-sectional TEM characterizations were performed for GDC/BZY bi-layer electrolyte to investigate the crystallinity and the microstructures (Fig. 4).",
+            0
+        ],
+        [
+            "The electrode deactivation during the first 200 h of operation in SOEC mode was attributed to the fuel electrode.",
+            0
+        ],
+        [
+            "Mechanical robustness was studied using a tensile tester (Instron Model 5543) with a load cell of 1 kN via a three-point bending method.",
+            0
+        ],
+        [
+            "For the thiol treatment, the cleaned substrates were immersed in 1-dodecanethiol (CH3C11H22SH) for 5 h at room temperature in air, then washed in flowing ethanol for 2 min and in deionized water for 2 min.",
+            0
+        ],
+        [
+            "La0.4Ce0.6O2\u2212\u03b4 (LDC) was used as a buffer layer between the anode and the electrolyte in order to prevent the interdiffusion of ionic species between perovskite and electrolyte.",
+            0
+        ],
+        [
+            "Beyond consideration of chemical composition, the use of strain and/or a high density of active interfaces also show promise for enhancing performance. solid oxide fuel cell (SOFC) solid oxide electrolysis cell (SOEC) perovskite oxygen exchange defect chemistry conductivity chemical expansion surface chemistry segregation strain 1.",
+            0
+        ],
+        [
+            "However, there are still many issues to address for SOECs; in particular, degradation of the cell is more significant compared with SOFCs.",
+            0
+        ],
+        [
+            "During 3 further RedOx cycles, the ohmic and anodic polarization resistances increased [162].",
+            0
+        ],
+        [
+            "The temperature was then increased at a rate of 1 \u00b0C min\u22121 to 500 \u00b0C in flowing air (20 ml min\u22121).",
+            0
+        ],
+        [
+            "However, the widespread use of the SOFC technology is hindered by sulfur poisoning at the anode caused by the sulfur impurities in fossil fuels.",
+            0
+        ],
+        [
+            "Supplementary Table 2 illustrates the details of suspension compositions and spinning/sintering conditions.",
+            0
+        ],
+        [
+            "The estimated degradation rate was 14 m\u03a9\u00b7cm2/1000 h, twice as low as those of both cell types at 850 \u00b0C.",
+            1
+        ],
+        [
+            "However, to the best of the authors' knowledge no study so far reported experiments with both techniques being applied on the same films at the same temperature.",
+            0
+        ],
+        [
+            "Sci.",
+            0
+        ],
+        [
+            "The correlations between the nanoporous structures and the specific performance of perovskite oxides are summarized and highlighted.",
+            0
+        ],
+        [
+            "The high-temperature sintering leads to severe agglomeration which is already shown in the images of SEM in Fig. 2; as a result, the electrochemical performance of the assembled cells can be easily understood.",
+            0
+        ],
+        [
+            "These anodes show a large bulk volume change upon Ni reoxidation.",
+            0
+        ],
+        [
+            "It reflects that there was no obvious elemental interdiffusion or segregation occurred at the interfaces during operation, which excludes the possibility of any undesired secondary reaction, and thus confirms the good chemical compatibility of the electrode and electrolyte materials. 3.2.",
+            0
+        ],
+        [
+            "This test showed several hallmarks of sulfur poisoning [4\u20135 7,10]: a sharp initial drop in voltage on adding 50 ppm H2S to the fuel stream; a slower decrease in voltage on continued operation under constant atmosphere; recovery of most of the lost output voltage on reducing the H2S level to 0 ppm; overall decline in output voltage at constant current density, and a progressive rise in ASR (from 1.3 \u03a9\u00b7cm2 to 4.8 \u03a9\u00b7cm2) over the duration of the test.",
+            0
+        ],
+        [
+            "Soc. 154, B20\u2013B24 (2007).",
+            0
+        ],
+        [
+            "Subsequently, YSZ and GDC electrolytes with an area of 9 \u00d7 9 mm2 were deposited on the Pt anode.",
+            0
+        ],
+        [
+            "A maximum power density of 0.57 and 0.66 m\u00b7W\u00b7cm\u22122 was obtained at 850 \u00b0C with pure H2 as fuel for x = 0.05 and x = 0.10, respectively.",
+            1
+        ],
+        [
+            "We conclude that the Ni\u2013GDC-nanocube cermet anode is a suitable anode material for next-generation low-temperature SOFCs.",
+            1
+        ],
+        [
+            "Anode reduction increases porosity because of the NiO to Ni volume change.",
+            0
+        ],
+        [
+            "The structural characterization was carried out from an in situ temperature-dependent neutron powder diffraction (NPD) study in the 25\u2013800 \u00b0C range, under the actual working conditions of a SOFC.",
+            0
+        ],
+        [
+            "Gas Sensing Gas sensing test is carried out generally by mounting the interdigitated electrodes (IDEs) in a quartz tube placed inside furnace.",
+            0
+        ],
+        [
+            "This drawback necessitates conformal and dense thin film electrolytes, and can appreciably be relieved with an aid of atomic layer deposition (ALD) technique that is governed by binary reaction sequence chemistry in vacuum state [6].",
+            0
+        ],
+        [
+            "The conductivity was measured in van-der-Pauw geometry at 600 \u00b0C and 10 \u03bcbar p(O2).",
+            1
+        ],
+        [
+            "A current density of \u22480.5 A cm\u22122 was observed at 1.6 V, which is in good accordance with that in Figure 3a.",
+            0
+        ],
+        [
+            "The latter represents an interface resistance.",
+            0
+        ],
+        [
+            "This is a reason for lower activation energy reported at higher temperature (see Table 2).",
+            0
+        ],
+        [
+            "At 710 \u00b0C under adiabatic conditions the maximum Fu is decreasing with increasing fuel flow rate from 92% at 200 mL/min to 89% at 400 mL/min.",
+            0
+        ],
+        [
+            "Thus, a new type of catalytic system for effectively cleaning the flue gas under lean-burn conditions is urgently needed.",
+            0
+        ],
+        [
+            "A. & LarreaA.",
+            0
+        ],
+        [
+            "The mixture was ball-milled for 24 h until the slurry was stable and homogeneous.",
+            0
+        ],
+        [
+            "Chem.",
+            0
+        ],
+        [
+            "Thus, tortuosity plays a significant role and enhances the LSC sheet resistance especially in the early stages of thin film growth.",
+            0
+        ],
+        [
+            "Therefore, mass transport of the fuel has been significantly facilitated since there is no additional resistance from the support.",
+            0
+        ],
+        [
+            "The OCVs were close to the theoretical values at operating temperatures, indicating a good sealing and no gas leakage across the BZCYYb electrolyte.",
+            0
+        ],
+        [
+            "Results and Discussion Characterization of SAUP 3D Steam Electrode Figure 1 a shows a scanning electron microscopy (SEM) image of a calcined 3D PBSCF framework.",
+            0
+        ],
+        [
+            "The stabilization of a 3C perovskite framework in the SrCoO3\u2212\u03b4 system at room temperature has been achieved through several chemical substitutions that have been performed either at the Sr (SrxM1\u2212xCoO3\u2212\u03b4) or at the Co positions (SrCoxM1\u2212xO3\u2212\u03b4), with atoms such as Ba, La, Sm and Sc, Fe, Ni, and Mn, respectively [9,10,11,12].",
+            0
+        ],
+        [
+            "Oxygen concentration discharge fuel cell and H2/O2 fuel cell using the 8YSZ-20% glass (700 \u00b0C) as electrolyte were constructed [22,23]. 3.",
+            0
+        ],
+        [
+            "Results and Discussion 3.1.",
+            0
+        ],
+        [
+            "D.",
+            0
+        ],
+        [
+            "The uniform distribution of LSM and SDC is beneficial to build continuous networks for ionic conduction.",
+            0
+        ],
+        [
+            "[[qv: 17a]] The current density at the same temperature in this work reached more than 2 A cm\u22122, which is almost 20 times of Bi's work.",
+            0
+        ],
+        [
+            "The total gas flow rate is maintained constant during the sensing test, which is carried out at a desired temperature.",
+            0
+        ],
+        [
+            "The cell was tested under conditions of varying humidity in order to evaluate electrode and electrolyte performance.",
+            0
+        ],
+        [
+            "Metal-supported solid oxide fuel cell membranes for rapid thermal cycling.",
+            0
+        ],
+        [
+            "Thermal Expansion Measurements In order to probe the mechanical compatibility of our materials with the other cell components, thermal expansion measurements in dense samples were performed in a 5% H2/95% N2 atmosphere.",
+            0
+        ],
+        [
+            "As a result, the modification in work function changed the activation energy of reactions and the adsorption enthalpy of adsorbed species.",
+            0
+        ],
+        [
+            "Thus, it is not recommended to compare cathode ASR results obtained from complete fuel cells to the results obtained from symmetric cell studies.",
+            0
+        ],
+        [
+            "Of these, the Plansee SE\u2019s cell design has gained considerable attention, since it is manufactured by a combined sintering and deposition route, leading to a very thin electrolyte membrane being realized [25,26,27].",
+            0
+        ],
+        [
+            "Moreover, the non-destructive nature of synchrotron X-ray based techniques facilitates additional real-time examination of a complete cell.",
+            0
+        ],
+        [
+            "The octahedral B-sites within this network are occupied in a spatially modulated manner by the three transition metal cations.",
+            0
+        ],
+        [
+            "This suggests that the ceria coating, regardless of the details of the pre-treatment, improved the average power output of the cells over their lifetimes.",
+            0
+        ],
+        [
+            "In this regard, an additional advantage of LEIS is that there are few limitations in the form of the sample; real porous electrodes may be studied as well as model systems such as dense ceramics or thin films.",
+            0
+        ],
+        [
+            "In this work, XRD-CT has been employed for real-time examination of a complete cell during a thermal cycling test.",
+            0
+        ],
+        [
+            "While higher temperatures are beneficial for enhancing the thermally-activated surface exchange and diffusion processes, the kinetics of performance degradation processes may also be increased at higher temperatures where ions are more mobile.",
+            0
+        ],
+        [
+            "The cyclic exposure of the sensors to the analyte gases (e.g., H2 and NH3) is achieved with the aid of mass flow controllers.",
+            0
+        ],
+        [
+            "The drop size is controlled by the orifice diameter, the time for which the valve is kept open, and the chamber pressure.",
+            0
+        ],
+        [
+            "This result is slightly ahead of those of well-known oxygen ion electrolytes YSZ, GDC, Mg-doped LaGaO3 (LSGM), and typical proton electrolytes BaCe0.5Y0.5O3\u2212\u03b4 (BCY) and BaZr0.1Ce0.7Y0.2O3\u2212\u03b4 (BZCY) in previous reports [42,43].",
+            0
+        ],
+        [
+            "These oxide areas are also found in direct contact with the Gd2O3-doped CeO2 (GDC) diffusion barrier, indicating insufficient inhibition of the cation transport under these conditions (see Figure 8).",
+            0
+        ],
+        [
+            "Simulation of the SP and DP regions from an HRTEM image of a single grain are shown in Supporting Information Figure S14.",
+            0
+        ],
+        [
+            "Indeed, PCFCs with thin-film BZY electrolytes have been successfully developed using the free-standing membrane-electrode assemblies (MEAs), and demonstrated reasonably high-power outputs at the reduced temperatures below 450 \u00b0C (green box in Fig. 1).",
+            1
+        ],
+        [
+            "Gibbons et al. [41] examined calcination of (Pd/Cu) doped CeO2 in PVP matrix NFs via rapid (2 K\u00b7min\u22121) and slow (0.1 K\u00b7min\u22121) heating rate.",
+            0
+        ],
+        [
+            "To compensate for these additional losses, contacting layers (CCL = Cathode (air electrode) Contacting Layer) made of materials with high conductivity and a sintering temperature of 870 \u00b0C\u2013930 \u00b0C were applied.",
+            0
+        ],
+        [
+            "Similarly, in the perovskite La0.9Sr0.1Ga1\u2212xNixO3\u2212\u03b4, the conductivity changes from predominantly ionic, to electronic hopping, to apparently metallic (electronic) upon increasing the Ni content to x = 0.5 [44].",
+            0
+        ],
+        [
+            "Figure 2c exhibits the representative impedance spectra of BCFZY-ZnO fuel cell measured in H2/air at 400, 450, and 500 \u00b0C.",
+            1
+        ],
+        [
+            "Figure 5 Electrochemical performances of cells 1 and 3.",
+            0
+        ],
+        [
+            "All data-bars are 2 \u03bcm in length [186].",
+            0
+        ],
+        [
+            "At the hetero-interface, such as between perovskite LSM material and fluorite SDC material, atomic reconstruction generates high-mobility plane with a large amount of oxygen vacancies, yielding colossal values of the ionic conductivity [2].",
+            0
+        ],
+        [
+            "This transition has been observed previously for strontium ferrites, with Poulsen et al.26 suggesting that compound reduction at high temperature, resulting in a reduction in the charge carriers, was the cause of the transition.",
+            0
+        ],
+        [
+            "Composition 2 was studied by powder X-ray thermodiffraction from 25 to 900 \u00b0C (Figure 7); above this temperature, it reacts with the quartz capillary.",
+            0
+        ],
+        [
+            "During utilization (case 2), the nickel phase reorganizes to lower its surface energy.",
+            0
+        ],
+        [
+            "As the samples are heated, the oxidation of the perovskite compounds is produced, resulting in crystalline phases with a scheelite-type structure.",
+            0
+        ],
+        [
+            "Homogeneous Versus Inhomogeneous Oxidation 2.4.3.",
+            0
+        ],
+        [
+            "SMFO was prepared by dissolving stoichiometric amounts of Sr(NO3)2, (NH4)6Mo7O24\u22192H2O and C2FeO4\u22194H20 and citric acid (10% solution).",
+            0
+        ],
+        [
+            "This cathode has an area-specific polarization resistance as low as \u223c0.16 and \u223c0.68 \u03a9 cm2 in a symmetrical cell and peak power densities of 1.2 and 0.7 W cm\u22122 in a Gd0.1Ce0.9O1.95-based anode-supported fuel cell at 500 and 450 \u00b0C, respectively.",
+            1
+        ],
+        [
+            "As the oxidation starts at the anode, the cell bends towards the electrolyte (electrolyte on the concave side), then the curvature comes back to its initial value and bends further towards the anode (Figure 7).",
+            0
+        ],
+        [
+            "Miniaturized solid-oxide fuel cells (micro-SOFCs), designed using thin-film techniques can attain high specific energy (W h kg\u22121) and energy density (W h L\u22121) and may partially replace Li batteries in portable devices if fabricated successfully1.",
+            0
+        ],
+        [
+            "AC impedance measurements were recorded over the frequency range 1 MHz\u20130.01 Hz by use of a Solartron 1260 frequency response analyzer (FRA) with a modulation potential of 10 mV, over the temperature range 873\u20131073 K in static air.",
+            0
+        ],
+        [
+            "Recent advances in powder-metallurgy have led to the establishment of another SOFC concept: the metal-supported SOFC (MSC) [13].",
+            0
+        ],
+        [
+            "The results from the fresh SOFC are presented in Fig. 2 where the phase distribution maps of LSM, YSZ, NiO and SrO are shown (Fig. 2a).",
+            0
+        ],
+        [
+            "By this way, the ionic conductivity of 600 \u00b0C and 1000 \u00b0C pellet are 0.229 and 0.076 S/cm at 550 \u00b0C, respectively.",
+            1
+        ],
+        [
+            "However, a purely empirical correction of the values for different current collectors would add some arbitrariness and the area-specific values were thus not corrected in the further analysis.",
+            0
+        ],
+        [
+            "Reprinted with permission from ref. 44.",
+            0
+        ],
+        [
+            "This result was attributed to the rise in bulk Fermi level, though bulk substitution may also change the surface catalytic activity by changing the cations in the outermost surface and sub-surface.",
+            0
+        ],
+        [
+            "In the paper reported by de Lucas-Consuegra [96], the catalytic performance of Pt electrode can be optimized by the application of different potentials at each operation temperature.",
+            0
+        ],
+        [
+            "Therefore, the resulting (or average) ionic transference numbers, ti,av, should be much higher than ti.",
+            0
+        ],
+        [
+            "It is shown that the cell stacks infiltrated with pure ceria had the highest electrochemical catalytic activity.",
+            0
+        ],
+        [
+            "A cell with reduced BZCYN anode delivered a peak power density (PPD) of 184 mW cm\u22122 at 800 \u00b0C operating on H2, which was 3.6 times that of a cell with Ni\u2010free BZCY anode, indicating the importance of the exsolved Ni phase for H2 electro\u2010oxidation reaction (Figure S11a, Supporting Information).",
+            1
+        ],
+        [
+            "Materials Lett. 65, 2751\u20132754 (2011).",
+            0
+        ],
+        [
+            "The thickness of the layers was between 20 \u03bcm to 40 \u03bcm after sintering.",
+            0
+        ],
+        [
+            "Electrical properties and proton conduction of gadolinium doped ceria.",
+            0
+        ],
+        [
+            "Introduction Among the different types of fuel cells, SOFC (solid oxide fuel cells) are well-known to exhibit the highest energy conversion rates, associated with the elevated operation temperatures of these devices (typically 1000 \u00b0C), where all the components are metal oxides [1].",
+            0
+        ],
+        [
+            "Sci.",
+            0
+        ],
+        [
+            "In the paper reported by Hadjar et al. [98], an electrochemical NOxTRAP catalyst Pt-Ba/YSZ was investigated.",
+            0
+        ],
+        [
+            "Power Sources. 243, 766\u2013772 (2013).",
+            0
+        ],
+        [
+            "HanifiA.",
+            0
+        ],
+        [
+            "The green tube was dried at 100 \u00b0C, heated at 700 \u00b0C for 1 h to oxidize all the graphite, and then pre-sintered under air at 1100 \u00b0C for 3 h.",
+            0
+        ],
+        [
+            "However, for on-cell CH4 reforming in Ni-based anodes, coking is frequently observed in the anode when steam/carbon (H2O/CH4) ratio is low, since Ni catalyzes CH4 decomposition that produces deposited carbon in the form of filament or particle via either CH4 cracking or the Boudouard reactions as follow The soot-like carbon particles are distributed on the surface of Ni particles, occupying the active sites for electrochemical reaction and the pores for fuel gas transport8; and the carbon filaments formed by carbon diffusion into/precipitation out the Ni particles9 disintegrate the Ni-cermet anode by lifting out the Ni particles from the anode (dusting).",
+            0
+        ],
+        [
+            "Stoichiometric amounts of the starting materials were mixed together by planetary ball milling (Fritsch Pulverisette 7) for 24 hours in 2-propanol with ZrO2 balls, followed by drying, grinding, pressing into pellets, calcining at 700 \u00b0C for 6 hours, and finally heating to 900 \u00b0C for 8 hours.",
+            0
+        ],
+        [
+            "Finally, surface chemistry studies by other methods have also indicated that the intrinsic segregation phenomena may interact with extrinsic poisoning effects to alter surface chemistry.",
+            0
+        ],
+        [
+            "R., ZazulakM., EtsellT.",
+            0
+        ],
+        [
+            "Therefore one final requirement for electrode materials is thermo-chemo-mechanical stability over the range of operating conditions.",
+            0
+        ],
+        [
+            "Then cross-sections were prepared by using a focused ion beam unit, and EDXS maps were superimposed on the cross-sectional images (Fig. 6).",
+            0
+        ],
+        [
+            "For a more detailed description of DRT method and application were referred26.",
+            0
+        ],
+        [
+            "In the present work, two new functional materials based on zinc oxide (ZnO)\u2014a legacy material in semiconductors but exceptionally novel to solid state ionics\u2014are developed as membranes in SOFCs for the first time.",
+            1
+        ],
+        [
+            "XRD and SEM results indicated that NaCl~KCl inorganic salts exist as both crystalline and amorphous phases.",
+            0
+        ],
+        [
+            "It has been proved by our experiments that they are closed holes.",
+            0
+        ],
+        [
+            "T6N 1E4, Canada amalaguna@unizar.es 27359 In this study, the effects of calcination and milling of 8YSZ (8 mol% yttria stabilized zirconia) used in the nickel-YSZ anode on the performance of anode supported tubular fuel cells were investigated.",
+            1
+        ],
+        [
+            "The gaps between interface contacts fade away due to the interface reorganization.",
+            0
+        ],
+        [
+            "A novel electrode material for symmetrical SOFCs.",
+            0
+        ],
+        [
+            "In order to develop metal-supported direct-hydrocarbon SOFCs, Ni0.9Fe0.1-supported SOFCs were prepared with NiTiO3 infiltrated into the Ni0.9Fe0.1-support.",
+            1
+        ],
+        [
+            "On the conductivity curves, a semiconductor-metal transition was observed for all compounds, with an increase in the transition temperature noted with increasing copper dopant levels (Fig. 3A).",
+            0
+        ],
+        [
+            "However, the overall voltage drop of the Cell-A with increasing current density is much bigger than that of the Cell-B, which results in a \u224811 times lower peak power density (8.8 mW/cm2) compared to that of Cell-B (93.1 mW/cm2).",
+            1
+        ],
+        [
+            "However, in our study neither the intensities nor the energy separation of surface and bulk components change substantially upon polarization, as visible in Figure 7 and 8.",
+            0
+        ],
+        [
+            "This paper reports that an insertion of a very thin ALD YSZ layer between the anode Pt and the GDC electrolyte significantly improved the electrochemical performance of a cell.",
+            1
+        ],
+        [
+            "Thermal expansion analysis was conducted from room temperature to 900 K (627 \u00b0C).",
+            0
+        ],
+        [
+            "However, a much thicker YSZ film (40 nm) was deposited on the anode side to compensate the rough morphological variations of the Pt-coated AAO surface.",
+            0
+        ],
+        [
+            "S. http://orcid.org/0000-0002-8394-3359c* a Beijing Key Laboratory of Function Materials for Molecule & Structure Construction , School of Materials Science and Engineering , University of Science and Technology Beijing , Beijing , 100083 , China .",
+            0
+        ],
+        [
+            "These results can also be seen as a validation of the method overpotential calculation.7,31 Moreover it supports our initial assumption of homogeneous electrode polarization and rate limiting surface kinetics.",
+            0
+        ],
+        [
+            "Undoped samples bent towards the anode as usually observed [100].",
+            0
+        ],
+        [
+            "In the beginning, a comparatively high RWE,surfexch is found for all grid geometries, which rapidly decreases while growing the first 10\u201325 nm of LSC on top.",
+            0
+        ],
+        [
+            "Reitveld refinement of the structure using GSAS22 demonstrated a pseudo-linear increase in the lattice parameters with increased copper doping up to SrFe0.6Cu0.3Nb0.1O3\u2212\u03b4 (Figure S3 and Table S2).",
+            0
+        ],
+        [
+            "The powder was dried at 60 \u00b0C for 24 h and mixed with PEG#400 as a binder, and the resulting paste was used as an anode for solid-oxide single-fuel-cell fabrication.",
+            0
+        ],
+        [
+            "The results from the quantitative Rietveld refinement using the summed diffraction pattern of the XRD-CT data collected at room temperature of the fresh SOFC are shown in Supplementary Fig. 7c (Rwp = 5.853 % on 1710 observations).",
+            0
+        ],
+        [
+            "The fabricated micro-monolithic SOFCs were characterized and compared with those with conventional micro-tubular geometry.",
+            0
+        ],
+        [
+            "The smaller particle size, larger surface area and lower Ti3+ amount of nanoporous Sr-rich SrTiO3 (denoted as SrTiO3-1) could also lead to a higher photo-generated charge separation efficiency and a H2 evolution rate more than three times as high as that of non-porous SrTiO3 sample (SrTiO3-2), demonstrated by Li et al.136 For photocatalytic CO2 reduction, several factors should be considered, including CO2 capture (CO2 diffusion/adsorption), light harvesting, gas conversion (multi-electron chemical reactions) and electron\u2013hole separation.",
+            0
+        ],
+        [
+            "COMSOL finite elements software was therefore used to numerically solve the diffusion problem with boundary conditions c = 0.971 in the gas atmosphere (18O concentration in the gas) and c = 0.00205 (natural abundance of 18O) in the LSC layer as well as in YSZ before tracer diffusion takes place.",
+            0
+        ],
+        [
+            "L. .",
+            0
+        ],
+        [
+            "The effect of thermal cycling on the anode stability was monitored by the power output of the fuel cell as shown in Figure S15 in the Supporting Information.",
+            0
+        ],
+        [
+            "Given the significant differences between the materials and oxygen partial pressures, the focus of this study is to find surface species that are common for mixed conducting perovskites under in situ conditions.",
+            0
+        ],
+        [
+            "R.",
+            0
+        ],
+        [
+            "For this reason, the superstructure could not be detected from XRD data, given the weak scattering factor for oxygen atoms.",
+            0
+        ],
+        [
+            "With MgO, the first RedOx cycle induced a significant expansion of 0.35%, the following cycles only 0.14%.",
+            0
+        ],
+        [
+            "Dielectrics Ceramics are used in many electromagnetic interference shielding applications due to their appropriate dielectric characteristic.",
+            0
+        ],
+        [
+            "IEDP gives reliable information on the localization of resistances (surface, electrode bulk, interface) or inhomogeneities of diffusion in depth.",
+            0
+        ],
+        [
+            "Perovskites could readily accept oxygen vacancies and contain transition-metal cations in the octahedral sites due to the high tolerance factor against crystal distortion.",
+            0
+        ],
+        [
+            "Electrochemical Performance The electrochemical test was performed at a temperature range of 500\u2013600 \u00b0C with a steam partial pressure of 12%, which was obtained by setting the temperature of inlet carrying gas bubbler to 50 \u00b0C.",
+            0
+        ],
+        [
+            "J.",
+            0
+        ],
+        [
+            "Polymer has significant role to obtain appropriate viscosity for pre-spinning solution.",
+            0
+        ],
+        [
+            "The single BaCe0.9Yb0.1O3\u2212\u03b1 electrolyte shows a linear Arrhenius curve in the air at 400\u2013700 \u00b0C, whereas the conductivities of BaZr0.85Y0.15O3\u2212\u03b1-Li2CO3-K2CO3 start to increase dramatically above 600 \u00b0C.",
+            0
+        ],
+        [
+            "In the case electrolyte with GDC interlayer, additional GDC peaks were clearly observed and well-matched with the standard GDC pattern of PDF 00-046-0508.",
+            0
+        ],
+        [
+            "This reflects the clamping of the lattice parameters due to the fixed AO3\u2212\u03b4 matrix within which the B-site compositional exchange takes place.",
+            0
+        ],
+        [
+            "Further optimization work on the anode composition showed that the Ni-8YSZ is better at 950 \u00b0C under RedOx conditions compared to Ni-40CGO, due to better electrical conductivity.",
+            1
+        ],
+        [
+            "Electrode slurries of LaBaCo2O5+\u03b4 and La0.5Ba0.5CoO3\u2212\u03b4 were prepared by mixing 5 g of each powder with 1 g dispersant (20 wt % solsperse 28,000 (Lubrizol, Wickliffe, OH, USA) dissolved in terpineol), and 0.3 g binder (5 wt % V-006 (Heraeus, Hanau, Germany) dissolved in terpineol).",
+            0
+        ],
+        [
+            "Multiple RedOx cycles showed a faster rate for the second reduction and second oxidation [27,74,75].",
+            0
+        ],
+        [
+            "A possible difference of oxide ion conduction in LSC grains and grain boundaries may play a role here which leads to changes in depth due to the changing grain boundary density as shown in Fig. 2.",
+            0
+        ],
+        [
+            "The comparison of the obtained data allows the evaluation of all studied CCLs according to their resistance at 850 \u00b0C as follows: CCL1 \u2248 CCL2 < CCL3 \u2248 CCL4 < LSMC.",
+            0
+        ],
+        [
+            "Using a polymer reagent in spinning solution is the most successful method.",
+            0
+        ],
+        [
+            "Another approach of minimizing ohmic loss is using electrolytes with higher ionic conductivities.",
+            0
+        ],
+        [
+            "These results suggest that the significantly reduced thickness of the BZY electrolyte is the main cause of the improved cell performance.",
+            0
+        ],
+        [
+            "The long term durability test was performed by using a DC power source (IT-6720, iTech).",
+            0
+        ],
+        [
+            "The two influences work together and reaches a balance, which leads to the optimal sintering temperature of 600 \u00b0C for cell performance.",
+            0
+        ],
+        [
+            "W., LiH. & ChenL.",
+            0
+        ],
+        [
+            "Interestingly, the onset point of a voltage plateau for the Cell-B was as low as 0.6 V contrary to that of conventional SOFCs.",
+            1
+        ],
+        [
+            "(a) PXRD (logarithmic intensity scale) after aging at 750 \u00b0C for 120 h in air for Ba0.5Sr0.5Co0.8Fe0.2O3\u2212\u03b4 (BSCF, black, SP), Ba0.5Sr0.5Co0.7Fe0.175Mo0.125O3\u2212\u03b41 (gray, SP), Ba0.5Sr0.5Co0.5Fe0.125Mo0.375O3\u2212\u03b42 (blue, SP/DP), and Ba0.5Sr0.5Co0.50Fe0.05Mo0.45O3\u2212\u03b44 (blue, SP/DP).",
+            0
+        ],
+        [
+            "After being heat-treated at 550 \u00b0C for 2 h, the average crystal size of SDC increased to about 48 nm, indicating that the SDC is stable under the fuel cell working temperature.",
+            0
+        ],
+        [
+            "Combining two independent and complementary measurement methods in order to investigate the electrochemical properties of mixed conducting electrodes is clearly advantageous.",
+            0
+        ],
+        [
+            "The semicircles, representing the grain interior and interface polarization, disappeared with the increase of temperature.",
+            0
+        ],
+        [
+            "Fitting with a simplified impedance model (green line) enables a reasonable estimation of electrolyte losses and electrode polarization resistance.",
+            0
+        ],
+        [
+            "In present research, we worked on the parent SrCo0.95Ru0.05O3\u2212\u03b4 with an additional Ba doping at the Sr positions, in order to expand the unit-cell volume, so as to enhance the ion diffusion of O2\u2212 ions through the crystal lattice in this MIEC oxide.",
+            0
+        ],
+        [
+            "It is showed that the mechanical stability and freestanding of composite membranes are improved by the reinforcing effect of silica NFs homogeneously into polymer matrix.",
+            0
+        ],
+        [
+            "In another work to explore the effect of ceramic composite separators on the thermal shrinkage and electrochemical performance of the separators in LIBs, a nano sized Al2O3 coating was applied on both sides of microporous polyethylene (PE) separator [164].",
+            0
+        ],
+        [
+            "The benefits with configuration (1) are more freedom on the cathode composition.",
+            0
+        ],
+        [
+            "Single Chamber SOFC 2.5.",
+            0
+        ],
+        [
+            "Ion-electron interactions were treated using projector-augmented-wave potentials61 and a generalized gradient approximation (GGA) in the form of Perdew\u2013Burke\u2013Ernzerhof was adopted to describe electron\u2013electron interactions62.",
+            0
+        ],
+        [
+            "LeeY.",
+            0
+        ],
+        [
+            "However, it prevents the insertion of fine nanostructures near the electrolyte\u2013anode interface because of coarsening of the anode materials.",
+            0
+        ],
+        [
+            "GDC has suffered from its chemical instability and the resulting electronic leakage under a reduction environment.",
+            0
+        ],
+        [
+            "An increase of the active LSC area of a 100 nm thin film by activating a \u223c500 nm wide LSC region above the current collector, that is, an effective mesh size of (12/8 \u03bcm) instead of (11/9 \u03bcm) would already lead to the same RWE,surfexch and CWE for all mesh geometries.",
+            0
+        ],
+        [
+            "But they did not give the magnitude of the current efficiency in this paper.",
+            0
+        ],
+        [
+            "Co and Mn doping all increase the Fe4+ content in the doped S30 samples.",
+            0
+        ],
+        [
+            "An equivalent circuit mode LR\u03a9(RaZa)((RbZb)(RcZc) was used to fit the original EIS data by ZView (Copyright 1990\u20132007 Scribner Associates, Inc., Southern Pines, NC, USA, written by Derek Johson).",
+            0
+        ],
+        [
+            "The anomaly at 450 \u00b0C is also present in the parent compound (Figure 6, upper curve, taken from [14]), where it was related to a structural rearrangement from the room-temperature tetragonal superstructure to a truly simple cubic structure, where all the oxygen atoms become equivalent [14].",
+            0
+        ],
+        [
+            "In this section, examples of results of surface analysis of oxygen electrodes will be briefly introduced, mainly focusing on (La,Sr)(Co,Fe)O3 perovskite oxide.",
+            0
+        ],
+        [
+            "As the tubular cell can withstand relatively high cooling rates, an optimal cooling rate should be found to limit the degradation of the RedOx cycle by slowing the kinetics without increasing the degradation due to thermal shock [158].",
+            0
+        ],
+        [
+            "This concept is based on ceramic honeycombs/monoliths that have high strength-to-weight ratios, as well as superior compression/shear strengths43.",
+            0
+        ],
+        [
+            "In parallel, Waldbillig et al. observed smaller pores in this sponge-like reoxidized NiO microstructure.",
+            0
+        ],
+        [
+            "Electromotive forces using only the metallic Ni sphere as an anode in the power-generation test were present because the contact points between the electrolyte and metallic Ni sphere performed as a TPB.",
+            0
+        ],
+        [
+            "Figure S5.",
+            0
+        ],
+        [
+            "The calculated activation energy Ea are 0.62 and 0.75 eV corresponding to the \u03c3i from EIS and I\u2013V, respectively, which are lower than the reported results of oxygen-ion conductors36.",
+            0
+        ],
+        [
+            "This behavior suggests that CWE is also influenced by a limited in-plane electron conduction.",
+            0
+        ],
+        [
+            "Based upon the above investigations, the ZnO-based cells were further assessed at reduced temperatures from 450 to 525 \u00b0C, with a 30-min dwelling time at each testing point to stabilize the cell.",
+            1
+        ],
+        [
+            "MAT2015-68078-R) of Spain for funding this research.",
+            0
+        ],
+        [
+            "Steam reforming activity evaluation To evaluate the catalytic activity of the infiltrated Ni0.9Fe0.1-support for CH4 steam reforming, the NiO-Fe2O3 support sintered at 1450 \u00b0C in air for 5 h was sealed in a ceramic housing using a CeramabondTM sealant (Aremco Product, Inc.) and reduced at 650 \u00b0C in H2 for 2 h.",
+            0
+        ],
+        [
+            "(d) Intensity analysis of HAADF image (ii) for a [11\u03050] oriented SP region of the same grain analyzed in panel b.",
+            0
+        ],
+        [
+            "Figure 5 Process for fabricating SAUP 3D PBSCF textile steam electrode: a) initial fabric textile coupons in regular shape; b) fabric textile coupons soaked in precursor nitrate solution; c) PBSCF ceramic textile framework obtained after firing; d) bonding the 3D framework on electrolyte surface by filling with PVB/PBSCF suspension.",
+            0
+        ],
+        [
+            "These values of activation energy are associated with the processes associated with oxygen reduction reaction. 3.5.",
+            0
+        ],
+        [
+            "For PBFM developed in this work, the XPS analysis discussed above can validate the coexistence of Fe3+/Fe2+ and Mo6+/Mo5+ couples with content ratios of 2.71 : 1 and 28.76 : 1, respectively, which are believe to be able to make a contribution to both conductivity and stability (Fig. 2).",
+            0
+        ],
+        [
+            "Slip-cast and hot-solution infiltrated porous yttria stabilized zirconia (YSZ) supported tubular fuel cells.",
+            0
+        ],
+        [
+            "The value of RO of each cell was similar, around 0.063 \u03a9 cm\u22122, and that of RP varied in an opposite direction to the cell voltage and power density.",
+            1
+        ],
+        [
+            "J.",
+            0
+        ],
+        [
+            "The electrochemical catalytic efficiency is influenced by the steps (II) and (III), while the selectivity of products is related to the last step. 3.",
+            0
+        ],
+        [
+            "Nickel and ceria phases were sintered into a porous two-phase network, with no signs of a ceria coating remaining.",
+            0
+        ],
+        [
+            "Assuming that Re adopts an oxidation state of 6+, stable in the synthesis conditions in air, in Sr(Co0.9Re0.1)O2.845(2) perovskite Co ions show an average valence of 3.43+ at RT, thus the assumption of a full charge disproportionation would mean an average oxidation state of Co3.73+ at Co1 sites and Co3+ at Co2 positions.",
+            0
+        ],
+        [
+            "Strandbakke et al. have reported outstanding performance for the layered double perovskite La0.2Gd0.8BaCo2O5+\u03b4 [16] as a PCFC cathode with Area Specific Resistances (ASR) as low as 6 \u03a9\u00b7cm2 at 400 \u00b0C and 3% H2O in air.",
+            1
+        ],
+        [
+            "The I\u2013V and AC impedance data were collected at 450\u2013600 \u00b0C using the Gamry framework system (Gamry Reference 3000 Potentiostat/Galvanostat/ZRA).",
+            0
+        ],
+        [
+            "TECs measured in 5% H2/95% N2 atmosphere for perovskite phases and an air atmosphere for scheelite phases between 400 and 850 \u00b0C are included in Figure 9.",
+            0
+        ],
+        [
+            "The photo of measuring the pellet thickness by spiral micrometer.",
+            0
+        ],
+        [
+            "A three-dimensional MO6 octahedral network [36] in the perovskite structure acts as the double exchange media and induces electronic conduction, causing valence exchange along the MO6 octahedron, as shown in Equation (2) [37].",
+            0
+        ],
+        [
+            "Evidence for a phase transition between the two polymorphs could not be obtained by coulometric titration up to 800 \u00b0C (Figure 7).",
+            0
+        ],
+        [
+            "They found that using inorganic apatite coatings tend to make suitable conditions for bone tissue engineering.",
+            0
+        ],
+        [
+            "Microstructural analysis of anodes after operation As-received cells (treatment 1): Fig. 7 shows the post-operation cross-sectional SEM images of the anode of an as-received cell (i.e., no ceria coating).",
+            0
+        ],
+        [
+            "The mechanical strength of these supports increases slightly from 145 to 155 MPa after 10 RedOx cycles (the Weibull modulus also increases from 6 to 9) [214].",
+            0
+        ],
+        [
+            "Values of the activation energy are given in Table 3.",
+            0
+        ],
+        [
+            "Changes of oxidation states were detected on Fe, which appears as FeIII in oxidizing atmosphere and as mixed FeII/III in H2/H2O.",
+            0
+        ],
+        [
+            "This material is available free of charge via the Internet at http://pubs.acs.org.",
+            0
+        ],
+        [
+            "However, owing to the often unknown prehistory, this does not mean that no degradation has taken place before the measurements.",
+            0
+        ],
+        [
+            "For O2, the occupancy factors show full occupancy.",
+            0
+        ],
+        [
+            "In contrast to the manufacturing of full ceramic SOFCs, which relies on atmospheric sintering of NiO, the screen printing pastes for the Plansee MSC are based on metallic Ni particles.",
+            0
+        ],
+        [
+            "Conclusions This work presents the results of fabrication and characterization of a reversible protonic ceramic cell having symmetrically-organized electrodes made of Pr1.9Ba0.1NiO4+\u03b4 (PBN).",
+            1
+        ],
+        [
+            "The [Ni(N2H4)2]Cl2 complex is immediately reduced by adding a NaOH solution.",
+            0
+        ],
+        [
+            "However, one of the main issues confronting PCFCs is the lack of high performance cathode materials [1].",
+            0
+        ],
+        [
+            "This process is necessary for the developed fuel cell because there were no intrinsic protons in the used electrolyte material.",
+            0
+        ],
+        [
+            "The performance difference may result from the diverse ionic conductivity of SIM pellet through different temperatures sintering.",
+            0
+        ],
+        [
+            "The maximum increase of NO reduction rate was achieved at 375\u00b0C when a low potential (0.25 V) was applied on the system.",
+            0
+        ],
+        [
+            "Orientation and Particle Shape of Nickel Phase The particle shape and size of the electronic conducting phase change the percolation threshold.",
+            0
+        ],
+        [
+            "The conducting mechanism in SIMs is very important for determining the electrochemical performance of the assembled fuel cell.",
+            0
+        ],
+        [
+            "After the removal of the polymer (e.g., polyvinylpyrrolidone (PVP)) by calcination, perovskite oxides (e.g., La0.75Sr0.25MnO3,61,62 LaCoO3,63,64 LaFeO3,65,66 BiFeO3,67 La0.5Sr0.5CoO3\u2013x,68 La0.5Sr0.5Co0.8Fe0.2O3,69 La0.6Sr0.4Co1\u2013xFexO3\u2013\u03b4 (ref. 70)) with pure phase can be obtained.",
+            0
+        ],
+        [
+            "System Solutions 3.1.1.",
+            0
+        ],
+        [
+            "Potential instabilities may arise from: decomposition, ordering, or crystal structure changes of the electrode phase itself if it is metastable in the operating conditions; reactions between composite electrode phases or between electrodes and other cell components; changes in surface chemistry arising from intrinsic surface segregation, extrinsic surface poisoning, or a combination of both; microstructural coarsening; delamination from the electrolyte in SOEC mode when high oxygen chemical potentials occur; and stresses arising from thermal and/or chemical expansion.",
+            0
+        ],
+        [
+            "Su et al. [148] studied the secretion levels of Collagen I and fibronectin on electrospun PLA NFs coated by calcium silicate.",
+            0
+        ],
+        [
+            "This suggests that Mo catalyzes the oxygen reduction reaction (ORR), consistent with its role in catalytic systems involving dioxygen activation.",
+            0
+        ],
+        [
+            "This may be ascribed to the molten salts acting as fast conduction paths for ionic charge carriers, which corresponds with related reports on composite electrolytes [25,26,27,28,29,30,31,32].",
+            0
+        ],
+        [
+            "Adversely, an extensive masking of the MIEC catalytic surface with an ion-conducting phase possessing low catalytic activity can lead to an overall drop of cathode performance (Figure 1b).",
+            0
+        ],
+        [
+            "The working principle of solid electrolyte in the process of EPOC has been expounded in reaction mechanism (Section 2).",
+            0
+        ],
+        [
+            "It can be seen that the flowerlike texture of ceria has been destroyed in high temperature and long-term test.",
+            0
+        ],
+        [
+            "Based on these results and using CCL4 as the screen printed contacting layer, the comparison of the ASR of the 3YSZ based cell without CCL; with CCL; with CCL and contacting ribs; and with contacting ribs only (see Figure 8 for details) was done.",
+            0
+        ],
+        [
+            "The \u03b4 values are \u03b4 = 0.267(2), \u03b4 = 0.292(3), \u03b4 = 0.351(3) and \u03b4 = 0.434(3) at 400, 600, 800 and 950 \u00b0C, respectively.",
+            0
+        ],
+        [
+            "Methods Cell Fabrication The anode supported cells studied in this paper were fabricated by slip casting of a NiO-YSZ anode support followed by dip coating of a thin YSZ electrolyte and a thin porous YSZ layer for cathode infiltration.",
+            0
+        ],
+        [
+            "Reoxidation of Ni can occur for a variety of reasons at the operating temperature: Under high load or high fuel utilization conditions, the oxygen partial pressure can locally increase up to a critical value [33]; The oxygen partial pressure increases in the vicinity of compressive seals, which causes small air leakage to the anode [34]; Accidental fuel supply interruption; To reduce cost and system complexity, shut down and start up is done without protective gas.",
+            0
+        ],
+        [
+            "The appearance of cobalt metal peaks in S-PBMCo demonstrates that the cobalt exsolution occurs under an operating condition (H2, 800 \u00b0C).",
+            0
+        ],
+        [
+            "Their performance as cathode materials in intermediate-temperature solid oxide fuel cells (IT-SOFC) has been investigated.",
+            1
+        ],
+        [
+            "Actually, the sintering temperature is crucial for interface formation; high-temperature sintering can engender the non-uniform agglomerations and largely eliminate the interface area further to decrease the conductivity.",
+            0
+        ],
+        [
+            "A low temperature active cathode (like LaSrCoFe-oxide or SmSrCo-oxide) can be used, together with an interlayer against diffusion or reaction for long term stability.",
+            1
+        ],
+        [
+            "The steam electrolysis process started when a fixed current density was applied.",
+            0
+        ],
+        [
+            "In contrast to the previously mentioned simple or double perovskite, a layered structure of praseodymium nickelate is substituted under reducing atmospheres to complete Ni reduction and formation of a Ni\u2013Pr2O3 cermet (Figure 1) with good electrocatalytic properties [18,19].",
+            0
+        ],
+        [
+            "However, the electronic conduction characteristic, owing to the Ce4+ to Ce3+ reduction in fuel cell operation, leading to losses for open circuit voltage (OCV) of the SOFC with doped ceria electrolytes [13].",
+            0
+        ],
+        [
+            "R.",
+            0
+        ],
+        [
+            "Both of them were nanoscale, 46 nm for SDC and 37 nm for LSM.",
+            0
+        ],
+        [
+            "However, with increasing sintering temperature, porosities/gas permeation rates would decrease accordingly, requiring optimisation.",
+            0
+        ],
+        [
+            "In order to obtain high electrical conductivity, nickel particles need to form a percolative network.",
+            0
+        ],
+        [
+            "Bending and Stresses in Half-Cell Samples (Anode Support) Stresses in the layers are present due to the difference in thermal expansion coefficient (TEC) between the anode and the electrolyte.",
+            0
+        ],
+        [
+            "They investigated ferroelectric properties of the above-mentioned NFs by using piezoresponse force microscopy and found the polarization-voltage and amplitude-voltage hysteresis loops for (BaTiO3)/(PVDF) NFs. 5.9.",
+            0
+        ],
+        [
+            "Finally, chemical compatibility between the cathode and the electrolyte is reported as well as chemical stability and oxygen deficiency by coulometric titration. 2.",
+            0
+        ],
+        [
+            "The high power density means that a highly effective electrical pathway was formed along the electrolyte\u2013anode interface to the edge of the anode (electrical collection point).",
+            0
+        ],
+        [
+            "Synthesis for Ni-Based Anode-Supported Cells Based on the literature review of the RedOx instability of standard anode-supported cells given in Section 2, Figure 35 summarizes the major trends.",
+            0
+        ],
+        [
+            "Electrochemical performance in SOFC mode is similar for the as received Tosoh YSZ and the calcined YSZ cell.",
+            0
+        ],
+        [
+            "Not only simple oxide ceramic fibers such as TiO2, Al2O3 and ZnO, but also complex oxide ceramic fibers such as CaCu3Ti4O12 and Li1.6Al0.6MnO4 have been synthesized by electrospinning.",
+            0
+        ],
+        [
+            "The shifts were quantified and summarized in Figure 8.",
+            0
+        ],
+        [
+            "More recently, preliminary studies by Perry indicate that electrochemically measured deterioration of surface exchange coefficients (kq)\u2014see Figure 7\u2014occurs more rapidly for larger A-site cations even when the cation is not an acceptor dopant (i.e., isovalent substitution) within thin film (Sr,A)Ti0.65Fe0.35O3\u2212\u03b4, A = Ba, Sr, Ca.",
+            0
+        ],
+        [
+            "At SOFC operation conditions, the high and low oxygen partial pressure at both electrodes could be around 0.21 and 10\u221222 atm similar to the fuel cell operating condition, respectively.",
+            0
+        ],
+        [
+            "For example, Bi et al. reported a durable P\u2010SOEC with current density of \u2248100 mA cm\u22122 at 1.6 V, 600 \u00b0C.",
+            0
+        ],
+        [
+            "Since the use of renewable energy, such as wind or solar power, is increasing, the generated electrical power may not match demand, because the renewable electric power supply fluctuates.",
+            0
+        ],
+        [
+            "The interfaces between the entire cathode thickness, electrolyte and part of the anode for the TY and CY cells are shown in Fig. 1c,d, respectively.",
+            0
+        ],
+        [
+            "Study results revealed that the composite possessed better conductivity and electrochemical performance than the conventional pure SDC electrolyte. 2.",
+            0
+        ],
+        [
+            "The final stress in the electrolyte is similar to the one before the RedOx cycle; the thermal stresses are built up again, in contradiction to the stress release observed by Villanova et al. at room temperature [95].",
+            0
+        ],
+        [
+            "In addition, this PBFM anode could greatly facilitate its application in anode-supported fuel cells, when some technical strategies, such as introducing some electrically conductive metal-phase materials into anode structure, are required to improve the total anode conductivity and catalytic activity.",
+            0
+        ],
+        [
+            "This result indicates that the molten salt cannot only generate fast transport ways but also enhance its long-range mobility, which leads to lower resistance and higher performance.",
+            0
+        ],
+        [
+            "For both types of cell, oxygen electrodes play a highly important role in determining efficiency, and superior catalytic activity, transport properties, and stability are required.",
+            0
+        ],
+        [
+            "Gas combustion Catalytic combustion of fuels and volatile organic compounds (VOCs), such as methane and toluene, is important for power generation and environmental protection.",
+            0
+        ],
+        [
+            "Versa Power Systems tested their standard cell by closing the inlet and outlet of the anode during 15 h at 750 \u00b0C and no degradation was observed [143]. 3.6.3.",
+            0
+        ],
+        [
+            "Usually, the kinetic processes dominate the interfacial polarization resistance during the operation of fuel cells39.",
+            0
+        ],
+        [
+            "The reaction products were characterized by X-ray diffraction (XRD) for phase identification and for assessment of the phase purity using a Brucker D8 diffractometer (Madrid, Spain) (40 kV, 30 mA), controlled by a DIFFRACTPLUS software (Bruker Espa\u00f1ola S.A., Madrid, Spain), in Bragg-Brentano reflection geometry with Cu K\u03b1 radiation (\u03bb = 1.5418 \u00c5), between 10 and 90 angular range.",
+            0
+        ],
+        [
+            "Copper, copper alloy and iron alloy has been widely studied as excellent anode catalysts in SOFCs636373839.",
+            1
+        ],
+        [
+            "In this review, the roles of bulk and surface chemistry in impacting the aforementioned electrode properties, particularly the oxygen surface exchange process, will be discussed.",
+            0
+        ],
+        [
+            "Further micro-structure of composite specimen was investigated using a transmission electron microscope (TEM, JEOL JEM-2100F) operating under accelerating voltage of 200 kV.",
+            0
+        ],
+        [
+            "Changes in the surface potential step (\u03c7) by surface dipoles may play a small role as well, see also below.",
+            0
+        ],
+        [
+            "These results are ahead of some standard electrolytes in previous reports.",
+            0
+        ],
+        [
+            "A temperature programmed oxidation study also revealed a finer Ni microstructure after a RedOx cycle [82]. 2.4.2.",
+            0
+        ],
+        [
+            "The conductivity of SrFe0.6Cu0.3Nb0.1O3\u2212\u03b4 is comparable to that for the Cu-free sample SrFe0.9Nb0.1O3\u2212\u03b4 whilst the conductivity of sample SrFe0.5Cu0.4Nb0.1O3\u2212\u03b4 is slightly higher (Fig. 3B) due to higher concentration of exsolved Fe (or Fe-rich alloy).",
+            0
+        ],
+        [
+            "Crystallographic Characterization The initial characterization of the products was carried out by XRD.",
+            0
+        ],
+        [
+            "MaiA. et al.",
+            0
+        ],
+        [
+            "The heat treatment parameter plays significant role in the final size and morphology of fibers.",
+            0
+        ],
+        [
+            "Long-term tests with a constant electrical load will be conducted for chemical stability, and fuel versatility will be assessed as ultimate studies of the reliability of micro-SOFCs.",
+            0
+        ],
+        [
+            "They found that the resulting impedance due to gas diffusion in infiltrated electrodes showed a clear dependency on the structural parameters of the electrode.",
+            1
+        ],
+        [
+            "The matching of cation occupancy to the crystal chemical environment that is possible in the two-phase B-site separation within a single AO3\u2212\u03b4 network increases the stability of the cubic perovskite with respect to competing structures over that of the single-phase parent material.",
+            0
+        ],
+        [
+            "More specifically, the BET surface area of BZCYN increased from 4.58 to 7.77 m2 g\u22121 after H2 reduction.",
+            0
+        ],
+        [
+            "This linearly growing contribution to CWE can be attributed to the chemical capacitance of the LSC film Cchem,LSC, which is a volume property of the electrode material and given by ref (33) 1with e being the elementary charge, A and t the electrode surface and thickness, and cO and \u03bcO the concentration and chemical potential of oxygen, respectively.",
+            0
+        ],
+        [
+            "Recently, ceramic fibers have been developed for many advanced materials industries due to the unique properties known only in ceramic materials\u2014superior high oxidation and corrosion resistance, semiconducting, sensibility, electric charge storage, catalytic behavior, magnetic properties, reconstruction of crystal units, tailored phase transformation, surface modification and wide range of bio-compatibility, to mention just a few [3,4,5].",
+            0
+        ],
+        [
+            "To the best of our knowledge, this is the first demonstration of the ability of the thermal robustness of micro-SOFC, which has never been attained in many conventional Si-based devices.",
+            0
+        ],
+        [
+            "Finally, the coated pellets (half cells) were sintered at 1400 \u00b0C for 4 h.",
+            0
+        ],
+        [
+            "Finally, an excellent chemical compatibility with the electrolyte LSGM is also observed.",
+            0
+        ],
+        [
+            "This is correlated to the exsolution of Ni separated to the grain boundaries of MgO (small particles of Ni were observed at the surface of MgO grains).",
+            0
+        ],
+        [
+            "These two processes could allow the electro-oxidation process to extend from three-phase electrode/electrolyte/gas boundary to the anode surface, then leading to a catalytic enhancement.",
+            0
+        ],
+        [
+            "Notably, propylene is usually used to represent HC in the engine exhaust [63].",
+            0
+        ],
+        [
+            "LaBaCo2O5+\u03b4 shows similar microstructure as shown in Figure S1. 3.2.",
+            0
+        ],
+        [
+            "SCRO was finally screen printed onto the other side of the disk and fired at 1100 \u00b0C in air for 1 h.",
+            0
+        ],
+        [
+            "All the cell impedances were normalized by the superficial area so that they have the units of \u03a9\u00b7cm2.",
+            0
+        ],
+        [
+            "After the RedOx cycle, NiO grains grow out of the TEM-lamella plane and inside preexisting pores [125].",
+            0
+        ],
+        [
+            "The reactor can be considered as a complex between a ribbed-plate or flat-plate solid oxide fuel cell and a traditional monolithic honeycomb reactor.",
+            0
+        ],
+        [
+            "This performance improvement using BZY provides an opportunity for practical use of PCFCs potentially solving the conflicting challenges between high performance and chemical stability that have been faced in PCFCs until now.",
+            1
+        ],
+        [
+            "Considering its mediate frequencies and strong dependence on temperature, such a peak can likely be associated with the dissociation of adsorbed molecules [46,47].",
+            0
+        ],
+        [
+            "Switching between oxidizing and reducing atmospheres as well as electrochemical polarization lead to a shift of the apparent binding energy, which can be explained by the correlation of Fermi level and the chemical potential of oxygen.",
+            0
+        ],
+        [
+            "A-site cation deficiency has also been used as a method both of intrinsic acceptor doping and surface segregation prevention [68].",
+            0
+        ],
+        [
+            "Enhanced methane steam reforming activity and electrochemical performance of Ni0.9Fe0.1-supported solid oxide fuel cells with infiltrated Ni-TiO2 particles.",
+            0
+        ],
+        [
+            "(Peak energies quoted correspond to the high energy onset of the peaks, and the peak apexes appear at slightly lower energies due to inelastic scattering processes.)",
+            0
+        ],
+        [
+            "The maximum power density of an electrolyte-supported cell with a PBMCo-12-Fe anode reaches 1.834 W cm\u22122 in humidified H2 at 800 \u00b0C, achieving excellent electrochemical performance compared to other recently developed ceramic anodes.",
+            1
+        ],
+        [
+            "Yoo et al.25 reported a maximum power density of ~0.63 W cm\u22122 in H2 at 800 \u00b0C for a LSGM (~250 \u03bcm) electrolyte supported SOFC with Ni-impregnated La0.2Sr0.8Ti0.98Co0.02O3-GDC composite anode.",
+            1
+        ],
+        [
+            "The characterization techniques utilized in this study are close to the measures described in our preview work [23].",
+            0
+        ],
+        [
+            "In reported perovskite oxides, besides LSCM, The double perovskite Sr2Fe1.5Mo0.5O6\u2212\u03b4 (SFMO), was demonstrated to be a good electrode for symmetrical SOFCs1213.",
+            1
+        ],
+        [
+            "The cell performance is presented for single cells and for stack operation, both in lightweight and stationary stack designs.",
+            0
+        ],
+        [
+            "Furthermore, the porous thin layer of PBFM (~10 \u03bcm) might also facilitate the minimization of polarization resistance.",
+            0
+        ],
+        [
+            "Reaction Mechanism The term EPOC was used to describe the phenomenon that the pronounced strongly nonfaradaic and the reversible changes in the catalytic activity and selectivity of conductive catalysts deposited on solid electrolytes.",
+            0
+        ],
+        [
+            "Phys.",
+            0
+        ],
+        [
+            "And third, these experiments again confirm that there is no thickness dependency of RWE,surfexch for films larger than 20 nm thickness.",
+            0
+        ],
+        [
+            "Yttria-stabilized zirconia (YSZ) has dominated the SOFC R&D over many decades since it was first discovered by Nernst [1] in 1899.",
+            0
+        ],
+        [
+            "More than 60 h testing of this NFs catalyst in the WGS environment (5% CO, 10% H2O, balance Ar) at 400 \u00b0C indicated high WGS activity.",
+            0
+        ],
+        [
+            "There are special d electronic configurations in the outer electrons of these noble metals.",
+            0
+        ],
+        [
+            "The current\u2013voltage characteristics with a current rate of 0.2 A/min up to 20 A and impedance spectra have been measured at different experimental conditions.",
+            0
+        ],
+        [
+            "This superstructure probably arises from the long-range ordering of oxygen vacancies, since they are all concentrated at the O3 position.",
+            0
+        ],
+        [
+            "Conductivity was higher for Ti (8 S/cm) > Al > Ga and the performances were better in case of Ti (0.32 A/cm2 at short circuit) > Mn (0.3 A/cm2) > Ga (0.26 A/cm2) > Al (0.25 A/cm2) [242].",
+            0
+        ],
+        [
+            "SrCoO3\u2212\u03b4 SOFC cathode hydrogen SrCo1\u2212xNbxO3\u2212\u03b4 solid oxide fuel cell neutron diffraction 1.",
+            0
+        ],
+        [
+            "The electrical conductivity at room temperature shows that only 2 to 5 vol % of Ni (from the total volume including porosity) is needed to obtain more than 1000 S/cm compared to 10 vol % in the case of Ni coated graphite [202].",
+            0
+        ],
+        [
+            "For the electrolyte-supported cells (ESC), the expansion limit before delamination of the anode is increased to 0.5%.",
+            0
+        ],
+        [
+            "It is acquired from UPS and UV-vis results that the VB levels of BCFZY and ZnO are 3.7 and 5.1 eV, and their bandgaps are 2.15 and 3.15 eV, respectively.",
+            0
+        ],
+        [
+            "As presented in Figure 5b, the Ea for ionic conduction of ZnO and ZnO-LCP at 475\u2013550 \u00b0C are 0.7 and 0.51 eV, respectively, showing smaller values than those of pure O2\u2212 conductors YSZ and LSGM.",
+            0
+        ],
+        [
+            "Introduction Ceramics are widely used in many applications due to their chemical and thermal stability, and high mechanical and electrical properties arising as a result of ionic and covalent bonds between the atoms composing them [1,2].",
+            0
+        ],
+        [
+            "LSC-HT has the larger grain size throughout the whole film thickness compared to LSC-LT.",
+            0
+        ],
+        [
+            "The maximal power density of the cells is 353 mW\u00b7cm\u22122 and 406 mW\u00b7cm\u22122, respectively, at 800 \u00b0C.",
+            1
+        ],
+        [
+            "Tensile strain has also been calculated to decrease the migration barrier for oxygen hopping in perovskites [41].",
+            0
+        ],
+        [
+            "In the paper by Song et al. [61], the cathode was assembled in a bilayer structure.",
+            0
+        ],
+        [
+            "In 2005, Kammer and Skou [91] studied the Fe-Mn-based perovskites catalyst.",
+            0
+        ],
+        [
+            "In all cases (low-temperature tetragonal and high-temperature cubic structures) an anisotropic refinement of the thermal displacement factors was introduced to describe the thermal motions of the oxygen atoms.",
+            0
+        ],
+        [
+            "The result showed that an obvious increase of NO reduction rate was achieved when Na+ were pumped to the catalysts surface.",
+            0
+        ],
+        [
+            "XRD patterns (20\u201385\u00b0, about 30 min collection time) were recorded from 600 to 1200 \u00b0C in air, at 100 \u00b0C intervals.",
+            0
+        ],
+        [
+            "Effect of the thickness of sputtered gadolinia-doped ceria as a cathodic interlayer in solid oxide fuel cells.",
+            0
+        ],
+        [
+            "We have fabricated a fuel cell from LSCF-SCDC pellet sintered at 550 \u00b0C, and such device delivered an OCV of 0.9 V and maximum power density of 245 mW/cm2 at an operational temperature of 550 \u00b0C.",
+            1
+        ],
+        [
+            "Their findings showed HA/chitosan/BMSC is useful for bone reconstruction and tissue engineering due to the activating of intergrin-BMP/Smad signaling pathway of BMSCs on mentioned scaffold.",
+            0
+        ],
+        [
+            "Herein, we report the study of the synergistic effects of two highly charged B-site dopants on the performance of the perovskite LT-SOFC cathode SrCo0.8Nb0.1Ta0.1O3\u2212\u03b4 (SCNT), with this cathode exhibiting outstanding and stable electrochemical performance below 500 \u00b0C.",
+            1
+        ],
+        [
+            "Composition 3.4.6.",
+            0
+        ],
+        [
+            "There are some small additional peaks in the BaCe0.9Yb0.1O3\u2212\u03b1-NaCl~KCl XRD spectrum, suggesting that NaCl~KCl inorganic salts exist as crystalline phases in the composite electrolyte [35].",
+            0
+        ],
+        [
+            "In this regard, yttrium-doped barium zirconate (BZY) has been considered as an attractive electrolyte material for PCFCs due to its excellent chemical stability67 as well as high bulk ionic conductivity11121314.",
+            1
+        ],
+        [
+            "The high-temperature cubic phase of SrCoO3\u2212\u03b4 is a promising material due to its high electrical conductivity and oxygen permeation flux [7,8].",
+            0
+        ],
+        [
+            "J.",
+            0
+        ],
+        [
+            "The sintering temperature effect on electrochemical properties of Ce0.8Sm0.05Ca0.15O2-\u03b4 (SCDC)-La0.6Sr0.4Co0.2Fe0.8O3-\u03b4 (LSCF) heterostructure pellet The sintering temperature effect on electrochemical properties of Ce0.8Sm0.05Ca0.15O2-\u03b4 (SCDC)-La0.6Sr0.4Co0.2Fe0.8O3-\u03b4 (LSCF) heterostructure pellet NieXiyu 562589557@qq.comChenYing 657369132@qq.comMushtaqNaveed mahrnaveedm65@gmail.comRaufSajid sajidrauf.physics@gmail.comWangBaoyuan baoyuanw@163.comDongWenjing 474505249@qq.comWangXunying 429654286@qq.comWangHao nanoguy@126.comZhuBin zhubin@hubu.edu.cn 0000 0001 0727 9022 grid.34418.3aKey Laboratory of Ferro and Piezoelectric Materials and Devices, Faculty of Physics and Electronic Science, Hubei University, Youyi Road 368, Wuhan, 430062 Hubei People\u2019s Republic of China 162 Recently, semiconductor-ionic materials (SIMs) have emerged as new functional materials, which possessed high ionic conductivity with successful applications as the electrolyte in advanced low-temperature solid oxide fuel cells (LT-SOFCs).",
+            0
+        ],
+        [
+            "A niobium and tantalum co-doped perovskite cathode for solid oxide fuel cells operating below 500 \u00b0C A niobium and tantalum co-doped perovskite cathode for solid oxide fuel cells operating below 500 \u00b0C LiMengran1ZhaoMingwen2LiFeng2ZhouWeia3 http://orcid.org/0000-0003-0322-095XPetersonVanessa K.4XuXiaoyong1ShaoZongping3GentleIan5ZhuZhonghuab1 1School of Chemical Engineering, The University of Queensland, St Lucia, Queensland 4072, Australia 2School of Physics and State Key Laboratory of Crystal Materials, Shandong University, Jinan 250100, Shandong, China 3Jiangsu National Synergetic Innovation Center for Advanced Materials (SICAM), State Key Laboratory of Materials-Oriented Chemical Engineering, College of Chemical Engineering, Nanjing Tech University, No. 5 Xin Mofan Road, Nanjing 210009, Jiangsu, China 4Australian Centre for Neutron Scattering, Australian Nuclear Science and Technology Organisation, Lucas Heights, New South Wales 2234, Australia 5School of Chemistry and Molecular Biosciences, The University of Queensland, St Lucia, Queensland 4072, Australia azhouwei1982@njtech.edu.cnbz.zhu@uq.edu.au 13990 The slow activity of cathode materials is one of the most significant barriers to realizing the operation of solid oxide fuel cells below 500 \u00b0C.",
+            0
+        ],
+        [
+            "In case of ASC, a decrease in OCV can occur, indicating the thin electrolyte to crack [10,90,113].",
+            0
+        ],
+        [
+            "The electrode polarization in this case is: 4.522, 0.659 and 0.362 \u03a9\u00b7cm2 for temperatures of 750 \u00b0C, 800 \u00b0C, and 850 \u00b0C, respectively.",
+            0
+        ],
+        [
+            "And an electrochemical cell for NO decomposition was firstly designed for which the value of current efficiency is exactly equal to the theoretical one.",
+            0
+        ],
+        [
+            "The nano-AFLs were post annealed in ambient air at 1,300 \u00b0C for 1 h with a uniform heating and cooling rate of 2 \u00b0C min\u22121.",
+            0
+        ],
+        [
+            "The calculational electromotive forces (EMFcal) could be obtained from EMFcal = R T 4 F tO ln[pO2 (A)/pO2 (B)] when tO = 1.",
+            0
+        ],
+        [
+            "(a) co-firing; (b) reduced (c) re-oxidized; (d) second reduction; (e) second oxidation and (f) third reduction with an additional 100 h under reducing atmosphere [14,107,108].",
+            0
+        ],
+        [
+            "For example, deposition of same thin-film compoment on nano-porous Ni substrate with 6-\u03bcm-thick Ni-YSZ, 2-\u03bcm-thick YSZ and 6-\u03bcm-thick LSC achieved PPD of 110 mW cm\u22122 at 570 \u00b0C14.",
+            1
+        ],
+        [
+            "LiY., SuP.",
+            0
+        ],
+        [
+            "A further two layer MSC stack in a stationary design was set up and operated at 0.5 A/cm2 for 43 h.",
+            1
+        ],
+        [
+            "The higher activation energy compared to other studies (see Table 3) should be related to the compressive stress built up in the composite [65].",
+            0
+        ],
+        [
+            "The authors would like to acknowledge the Climate Change and Emissions Management Corporation (CCEMC) of Canada and Fundacion Domingo Martinez and Ministerio de Economia y Competitividad (grant no.",
+            0
+        ],
+        [
+            "PVA and PVP are fairly common polymer reagents for the above-mentioned purpose.",
+            0
+        ],
+        [
+            "Pellets of 15 mm diameter were fabricated and exposed to different thermal treatments: 1000 \u00b0C, 1100 \u00b0C and 1200 \u00b0C for 72 h at each temperature.",
+            0
+        ],
+        [
+            "The first observation of homogeneous oxidation appears at low temperature (550\u2013650 \u00b0C) under dry air where the full anode layer starts to oxidize homogeneously.",
+            0
+        ],
+        [
+            "Not only calcination is preformed to eliminate the polymer part but it is also applied to change the crystallinity of ceramic NFs.",
+            0
+        ],
+        [
+            "In the pO2 range of 10\u221220~10\u221215 atm, the curve is slightly upwarped, indicating that there is a trace electron conduction in the 8YSZ-20% glass (700 \u00b0C) in reducing atmosphere.",
+            0
+        ],
+        [
+            "This unique property has enabled novel single layer fuel cells (SLFCs) possible, which provides many chances to improve the performance of fuel cells without the limitation of electrolytes1718.",
+            0
+        ],
+        [
+            "The first calcined temperature was fixed at 700 \u00b0C because there is almost no weight loss at 520 \u00b0C and above [26,27].",
+            0
+        ],
+        [
+            "The detector calibration and data treatment were performed in the same way as for the XRD-CT datasets collected during the thermal cycling experiment.",
+            0
+        ],
+        [
+            "Despite these significant material advances, less progress has been made in terms of cell design with commercially available SOFC products being dominated by the conventional planar type design.",
+            0
+        ],
+        [
+            "As seen in Figure 1b, there was a decline in weight loss around 550 \u00b0C, which is ascribed to the incomplete decomposition of the nitrate [39,40].",
+            0
+        ],
+        [
+            "Except for the Co 2p peak, all signals show significant energy shifts.",
+            0
+        ],
+        [
+            "Result and Discussion 3.1.",
+            0
+        ],
+        [
+            "This was already discussed above; it is dominated by the ionic resistance of YSZ but also includes the electron sheet resistance in the Pt grid and a Pt-tip contact resistance.",
+            0
+        ],
+        [
+            "It is also interesting that the regime with negative terminal voltage, which often appears as a failure of the SOFC stack operation, is caused by the higher resistant damaged cell within a stack.",
+            0
+        ],
+        [
+            "A cell consisting of reduced BZCYN\u2010infiltrated SDC anode, thick SDC electrolyte and Ba0.5Sr0.5Co0.8Fe0.2O3\u2212 \u03b4 + SDC cathode (Figure S12, Supporting Information) with the thicknesses of \u224830, 300, and 20 \u03bcm, exhibited PPDs of 590, 535, 458, 369, and 297 mW cm\u22122 operating on H2 fuel at 800, 750, 700, 650, and 600 \u00b0C, respectively (Figure S11b, Supporting Information).",
+            1
+        ],
+        [
+            "The UV-vis absorption spectra of the materials were tested with a UV3600 spectrometer (MIOSTECHPTY Ltd.).",
+            0
+        ],
+        [
+            "It may be expected that using silicate low melting point glass powder, as a sintering aid, as well as composite electrolytes with improved gas tightness, durability, and better component matching, could be synthesized.",
+            0
+        ],
+        [
+            "A more detailed analysis is beyond the scope of this paper, since the metal grid only acts as current collector in our experiments, at least after 3 nm of LSC were deposited, see explanation below.",
+            0
+        ],
+        [
+            "A small oxygen deficiency was observed at room temperature after refining the occupancy factors of the oxygen atoms.",
+            0
+        ],
+        [
+            "Mater.",
+            0
+        ],
+        [
+            "With the GDC interlayer, MF resistances were decreased from 7.179, 4.582, and 2.557 \u03a9cm2 to 2.485, 2.070, and 1.776 \u03a9cm2 at 350, 375, and 400 \u00b0C, respectively, corresponding to the slightly depressed MF arc in the Bode plot with a frequency shift from 102 Hz to 103 Hz.",
+            1
+        ],
+        [
+            "Although a large mismatch of lattice constant exists between BZY (0.42 nm) and GDC (0.54 nm), the grain boundaries of the GDC interlayer were aligned to the grain boundaries of the underneath BZY during the grain growth from PLD deposition.",
+            0
+        ],
+        [
+            "The result showed that the activity of the cathode layer was related to the Pt/YSZ ratio.",
+            0
+        ],
+        [
+            "Validity of this process for growing BZY films is discussed rigorously and confirmed in our previous work49.",
+            0
+        ],
+        [
+            "This should cause not only an increased RWE, surfexch, but also a decreased CWE compared to fully polarized layers.",
+            0
+        ],
+        [
+            "As one of the novel technology in the field of catalytic, the EPOC has some advantages compared with the traditional catalytic.",
+            0
+        ],
+        [
+            "It is observed that the zein/HA membranes can support cell proliferation and shows promise in bone tissue engineering applications.",
+            0
+        ],
+        [
+            "After the first RedOx cycle, the Rs and Rp were compared between the different cells, showing an Rs increase of 24% for standard cells and only 3% for the new cells.",
+            0
+        ],
+        [
+            "In another work, the electrochemical response of LaMnO3 fibers modified carbon paste electrode (LaMnO3/CPE) for fructose determination has been evaluated in the 0.4\u2013100 \u03bcM range and a low detection limit (0.063 \u03bcM) was found in comparison with other modified electrodes [44].",
+            0
+        ],
+        [
+            "For example, the zeta potential of ceramic NFs are measured by the different procedure and setup compared to the one for powders and common materials.",
+            0
+        ],
+        [
+            "RedOx Instability 2.1.",
+            0
+        ],
+        [
+            "Both of these inhomogeneities with depth can result from the nanostructure of PLD grown LSC thin films and the change of grain size and grain boundary density with depth as shown in Fig. 2.",
+            0
+        ],
+        [
+            "The use of the NASICON electrolyte made it possible that the electrochemical promoted catalysis reaction was operated at a low temperature.",
+            0
+        ],
+        [
+            "Figure 1a.",
+            0
+        ],
+        [
+            "B. et al.",
+            0
+        ],
+        [
+            "At temperatures greater than 400 \u00b0C, the oxygen vacancies in BSF samples increase by more than a few percentages, and result in not only an interruption of the double-exchange mechanism, but also enhancement of a small-polaron conduction by the help in neighboring oxygen vacancies.",
+            0
+        ],
+        [
+            "In addition, the targeted nanoporous perovskite oxides must be stable in NaOH or HF solutions which are used to remove the mesoporous silica templates.",
+            0
+        ],
+        [
+            "The anode powder was pressed into the pellets of 20 mm in diameter and 1.0 mm in thickness.",
+            0
+        ],
+        [
+            "Figure 31 Percolation threshold versus (a) axial ratio M and (b) radius of conducting particles r [192]. 3.4.7.",
+            0
+        ],
+        [
+            "The same films were consecutively analyzed by the two methods yielding complementary information.",
+            0
+        ],
+        [
+            "Hence, the total conductivity \u03c3 at different temperatures can be obtained by the following formula: \\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$ \\sigma =\\frac{L}{R\\times S} $$\\end{document} \u03c3 = L R \u00d7 S where R is the total resistance, and L and S are the thickness and the surface area of the pellets, respectively [38].",
+            0
+        ],
+        [
+            "Generally speaking, therefore, electrodes with higher oxygen self-diffusion may also exhibit higher surface exchange coefficients; however, there is considerable scatter in such plots.",
+            0
+        ],
+        [
+            "Finally, both octahedra layers share O2 atoms.",
+            0
+        ],
+        [
+            "After screen printing of the anode paste on the solid electrolyte, a power-generation test was performed directly without any sintering.",
+            0
+        ],
+        [
+            "Silver paste was also added to the mesh to improve contact.",
+            0
+        ],
+        [
+            "The selective catalytic reduction of NO by C3H6 was investigated by Constantinou et al. [27].",
+            0
+        ],
+        [
+            "Soc. 148, A388\u2013A394 (2001).",
+            0
+        ],
+        [
+            "Xu , Z.",
+            0
+        ],
+        [
+            "These results of RedOx stability of metal supported cells make them a very interesting technology for the future.",
+            0
+        ],
+        [
+            "J.",
+            0
+        ],
+        [
+            "Electrochem.",
+            0
+        ],
+        [
+            "Since the NFs rope offers improved mechanical properties, these types have the potential to be used in many applications, such as artificial muscle and electronic devices.",
+            0
+        ],
+        [
+            "As can be seen, this equation includes the parameters related to the resistances of the functional materials, which can be separated using the impedance spectroscopy method.",
+            0
+        ]
+    ]
+}
